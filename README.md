@@ -1,23 +1,23 @@
-
-S-REHAB es un sistema wearable modular e inalámbrico creado para monitorear objetivamente la rehabilitación del hombro en pacientes con Síndrome de Pinzamiento Subacromial. 
-
-
 <div align="center">
 
 # S-REHAB
 
-[![Curso](https://img.shields.io/badge/Curso-Introducción_a_Señales_Biomédicas-blue?style=for-the-badge&logo=medict)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
-[![Equipo](https://img.shields.io/badge/Equipo-Alianza-success?style=for-the-badge&logo=github)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
+[![Curso](https://img.shields.io/badge/Curso-Instrumentación_Biomédica-blue?style=for-the-badge&logo=medict)](https://github.com/AnthonyCQ322/S-REHAB)
+[![Equipo](https://img.shields.io/badge/Equipo-S--REHAB-success?style=for-the-badge&logo=github)](https://github.com/AnthonyCQ322/S-REHAB)
 
-**Curso:** Introducción a señales biomédicas  
-**Proyecto:** Determinación mediante uso de Machine Learning de ECG patológico vs ECG normal.  
+</div>
+
+**Curso:** Instrumentación Biiomédica 
+
+**Proyecto:** sistema wearable modular e inalámbrico creado para monitorear objetivamente la rehabilitación del hombro en pacientes con Síndrome de Pinzamiento Subacromial. 
+
 
 ---
-</div>
+
 
 ## Sobre el Proyecto
 
-Este repositorio está destinado a registrar el desarrollo de nuestro proyecto académico de indentificacion por Matchine Learnign a un ECG sano con un ECG patologico. Aquí compartiremos los códigos y reportes técnicos enfocados en la adquisición, procesamiento digital y análisis de señales biomédicas aplicadas al cuidado de la salud.
+Este repositorio está destinado a registrar el desarrollo de nuestro proyecto académico, es un sistema wearable médico, inalámbrico y de bajo costo diseñado para monitorizar de manera cuantitativa y objetiva la rehabilitación de pacientes jóvenes con Síndrome de Pinzamiento Subacromial. Cuenta con un módulo en el brazo que evalúa la cinemática del movimiento (ROM) con un sensor inercial (BNO055) y la fatiga del trapecio superior mediante sEMG (Myoware), junto con un módulo en el pecho que registra la frecuencia cardíaca mediante el sensor ECG (Max30001) del HealthyPi 5. El  proyecto utiliza Edge Computing que procesa la información localmente para activar un sistema de luces LED que alerta al paciente en tiempo real sobre los movimientos compensatorios o sobreesfuerzo. Finalmente, los datos se transmiten por Bluetooth a una interfaz en Unity 3D y a una plataforma web, ayudando al fisioterapeuta en las evaluaciones subjetivas tradicionales por un análisis clínico basado en datos precisos.
 
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/ECG.jpg" width="80%" alt="Imagen descriptiva del curso">
