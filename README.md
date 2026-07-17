@@ -37,7 +37,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
       ✉️ <a href="anthony.callupe@upch.pe">anthony.callupe@upch.pe</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Anthony.jpg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/VALLEJO.png" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>André Vallejo Canchanya</b><br>
       <i>"Apasionado por el Machine Learning y el diagnóstico temprano de enfermedades."</i><br><br>
       ✉️ <a href="andre.vallejo@upch.pe">andre.vallejo@upch.pe</a>
