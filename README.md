@@ -31,16 +31,19 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Anthony.jpg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>Anthony Frank Callupe Quispe</b><br>
       <i>"Estudiante de Ingeniería Biomédica apasionado por el análisis de datos médicos."</i><br><br>
       ✉️ <a href="anthony.callupe@upch.pe">anthony.callupe@upch.pe</a>
     </td>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Anthony.jpg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>André Vallejo Canchanya</b><br>
       <i>"Apasionado por el Machine Learning y el diagnóstico temprano de enfermedades."</i><br><br>
       ✉️ <a href="andre.vallejo@upch.pe">andre.vallejo@upch.pe</a>
     </td>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/DANIEL.png" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>Daniel Bagkdan Cárdenas Paniagua</b><br>
       <i>"Interesada en el procesamiento digital de bioseñales y la programación."</i><br><br>
       ✉️ <a href="daniel.cardenas@upch.pe">daniel.cardenas@upch.pe</a>
@@ -48,16 +51,19 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
   </tr>
   <tr>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Luis.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>Luis Alejandro Luque Prado</b><br>
       <i>"Enfocado en el diseño de hardware médico e instrumentación electrónica."</i><br><br>
       ✉️ <a href="luis.luque@upch.pe">luis.luque@upch.pe</a>
     </td>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Mishelle.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>Mishelle Eloisa Llanos Guerrero</b><br>
       <i>"Dedicada a la investigación clínica y la validación de tecnologías de salud."</i><br><br>
       ✉️ <a href="mishelle.llanos@upch.pe">mishelle.llanos@upch.pe</a>
     </td>
     <td align="center" width="33%">
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/PALOMINO.png" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>André Alexis Palomino Mozo</b><br>
       <i>"Enfocado en el diseño de hardware médico e instrumentación electrónica."</i><br><br>
       ✉️ <a href="andre.palominoupch.pe">andre.palomino@upch.pe</a>
