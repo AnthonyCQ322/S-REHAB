@@ -77,7 +77,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 
 El desarrollo de este proyecto y el aprendizaje a lo largo del semestre está guiado por nuestros docentes:
 
-*  **ROger**
+*  **HOYOS ALVITEZ MIGUEL ROGGER**
 
 
 ---
