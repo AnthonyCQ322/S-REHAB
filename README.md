@@ -63,7 +63,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
       ✉️ <a href="mishelle.llanos@upch.pe">mishelle.llanos@upch.pe</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/PALOMINO.png" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
+      <img src="https://github.com/AnthonyCQ322/S-REHAB/blob/main/Imagenes/Fotos/Palomino.jpg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
       <b>André Alexis Palomino Mozo</b><br>
       <i>"Enfocado en el diseño de hardware médico e instrumentación electrónica."</i><br><br>
       ✉️ <a href="andre.palominoupch.pe">andre.palomino@upch.pe</a>
