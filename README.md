@@ -26,7 +26,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 ---
 
 
-## Integrantes (Grupo Alianza)
+## Integrantes (Grupo 4 S-REHAB)
 
 <table align="center">
   <tr>
